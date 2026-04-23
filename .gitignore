@@ -1,0 +1,4 @@
+venv/
+datasets/creditcard.csv
+outputs/*
+!outputs/.gitkeep
