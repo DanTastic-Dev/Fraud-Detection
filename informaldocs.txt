@@ -1,0 +1,6 @@
+created a virtual python environment and added it to .gitignore. Also added datasets/ to .gitignore as it contains large files that should not be tracked by git.
+used this command to install the required packages in the virtual environment:
+    pip install xgboost shap scikit-learn imbalanced-learn pandas numpy matplotlib seaborn
+the link for dataset is as follows:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
+used the pipline describe in the research paper to make the first layer of the model as done in the layer directory
